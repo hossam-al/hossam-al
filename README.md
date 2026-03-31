@@ -1,45 +1,66 @@
 # Hi 👋 I'm Hossam Ali
 
 💻 Full Stack Developer (React.js + Laravel)  
-🚀 Building scalable web applications  
-
----
-
-## 🔧 Tech Stack
-- Frontend: React.js, Vite, Bootstrap
-- Backend: PHP, Laravel, REST APIs
-- Database: MySQL, Firebase Firestore
-- Tools: Git, GitHub, Postman
+🚀 I build scalable, high-performance web applications & REST APIs  
+🔥 Focused on real-world products, performance & clean architecture  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🪑 San3ty
-Marketplace platform connecting customers with furniture artisans  
-🔗 https://san3tyapp.com/
+### 🪑 San3ty - Furniture Marketplace
+A full-featured marketplace connecting customers with skilled furniture artisans in Damietta
 
-- React + Firebase
-- Product filtering & pagination
-- Cart & Wishlist
+🔗 Live: https://san3tyapp.com/  
+
+**Tech:** React + Vite, Firebase (Auth, Firestore, Storage)  
+
+**Key Features:**
+- Advanced product filtering & pagination
+- Cart & Wishlist system (localStorage + sync ready)
+- Performance optimization & SEO improvements
+- Solved Firestore pagination duplication issue
 
 ---
 
 ### 🏥 Hospital Management System
-Full system with roles (Admin, Doctor, Patient)
+Full-stack system for managing patients, doctors, and admins
 
-- React + Laravel API
+🔗 Live: https://egycarepro.netlify.app/  
+
+**Tech:** React + Laravel API  
+
+**Key Features:**
+- Multi-role system (Admin / Doctor / Patient)
+- Booking & management workflow
+- Clean API architecture
 
 ---
 
-### 🛒 E-commerce API
-RESTful API built with Laravel
+### 🛒 E-commerce API (Laravel)
+Robust RESTful API for e-commerce systems
 
-- Authentication
-- Orders & Products system
+🔗 Live: https://apiecommerc-production.up.railway.app/  
+
+**Tech:** Laravel, MySQL  
+
+**Key Features:**
+- Authentication system
+- Products & Orders management
+- Scalable backend structure
+
+---
+
+## 🔧 Tech Stack
+
+**Frontend:** React.js, Vite, Bootstrap  
+**Backend:** PHP, Laravel, REST APIs  
+**Database:** MySQL, Firebase Firestore  
+**Tools:** Git, GitHub, Postman  
 
 ---
 
 ## 📫 Contact Me
-- Email: hsam58315@gmail.com
-- Portfolio: https://portfolio-28025.firebaseapp.com/
+
+📧 Email: hsam58315@gmail.com  
+🌐 Portfolio: https://portfolio-28025.firebaseapp.com/  
