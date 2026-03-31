@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋 I'm Hossam Ali
 
-<!--
-**hossam-al/hossam-al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer (React.js + Laravel)  
+🚀 Building scalable web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Frontend: React.js, Vite, Bootstrap
+- Backend: PHP, Laravel, REST APIs
+- Database: MySQL, Firebase Firestore
+- Tools: Git, GitHub, Postman
+
+---
+
+## 🚀 Featured Projects
+
+### 🪑 San3ty
+Marketplace platform connecting customers with furniture artisans  
+🔗 https://san3tyapp.com/
+
+- React + Firebase
+- Product filtering & pagination
+- Cart & Wishlist
+
+---
+
+### 🏥 Hospital Management System
+Full system with roles (Admin, Doctor, Patient)
+
+- React + Laravel API
+
+---
+
+### 🛒 E-commerce API
+RESTful API built with Laravel
+
+- Authentication
+- Orders & Products system
+
+---
+
+## 📫 Contact Me
+- Email: hsam58315@gmail.com
+- Portfolio: https://portfolio-28025.firebaseapp.com/
