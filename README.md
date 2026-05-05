@@ -47,7 +47,7 @@ A marketplace platform connecting customers with furniture artisans in Damietta.
 ---
 
 ### 🛒 E-commerce API  
-🔗 https://apiecommerc-production.up.railway.app/  
+🔗 https://api-ecommerc-main-auuqrg.free.laravel.cloud/
 
 - Laravel RESTful API  
 - Authentication system  
